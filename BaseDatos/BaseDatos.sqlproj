@@ -68,5 +68,9 @@
     <Build Include="dbo\StoreProcedures\ClienteEliminar.sql" />
     <Build Include="dbo\StoreProcedures\ClientesListar.sql" />
     <Build Include="dbo\Tablas\Productos.sql" />
+    <Build Include="dbo\StoreProcedures\ProductosInsertar.sql" />
+    <Build Include="dbo\StoreProcedures\ProductosListar.sql" />
+    <Build Include="dbo\StoreProcedures\ProductosEliminar.sql" />
+    <Build Include="dbo\StoreProcedures\ProductosActualizar.sql" />
   </ItemGroup>
 </Project>
